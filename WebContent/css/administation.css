@@ -1,0 +1,263 @@
+table {
+	border: 1px black solid;
+	border-collapse: collapse;
+}
+
+th {
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+}
+
+td {
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	padding-left: 0.4em;
+	padding-right: 0.4em;
+	text-align: center;
+}
+
+tr:nth-child(even) {
+	background-color: #DF98D3;
+}
+
+tr:nth-child(odd) {
+	background-color: #B260A4;
+}
+
+label {
+	float: left;
+	width: 100px;
+}
+
+form>div {
+	margin-bottom: 10px;
+}
+
+.invisible {
+	visibility: hidden;
+}
+
+.visible {
+	visibility: visible;
+}
+
+.text-size {
+	font-size: small;
+}
+
+.text-annotation {
+	text-align: right;
+	font-size: small;
+	color: red;
+	font-weight: bold;
+}
+
+.div0 {
+	margin-bottom: 50px;
+	max-width: 775px;
+	margin: auto;
+	height: auto;
+	text-align: center;
+}
+
+.div1 {
+	margin-bottom: 50px;
+	max-width: 375px;
+	margin: auto;
+	height: auto;
+}
+
+.div2 {
+	font-family: Impact;
+	margin-bottom: 50px;
+	max-width: 375px;
+	margin: auto;
+	height: auto;
+	text-shadow: white 2px 2px, white -2px 2px, white -2px -2px, white 2px
+		-1px;
+	color: black;
+}
+
+.div3 {
+	background-color: #86b7df;
+	border-style: solid;
+	margin-bottom: 50px;
+	max-width: 800px;
+	margin: auto;
+	height: auto;
+}
+
+.div4 {
+	font-family: Comic Sans MS;
+	font-weight: bold;
+	color: white;
+	text-shadow: black 1px 1px, black -1px 1px, black -1px -1px, black 1px
+		-1px;
+	text-align: left;
+	font-weight: bold;
+}
+
+.div5 {
+	font-family: Comic Sans MS;
+	text-align: left;
+}
+
+.div6 {
+	text-align: justify;
+}
+
+.div7 {
+	text-align: left;
+}
+
+.div8 {
+	font-size: 24px;
+	font-family: Comic Sans MS;
+	font-weight: bold;
+	color: white;
+	text-shadow: black 1px 1px, black -1px 1px, black -1px -1px, black 1px
+		-1px;
+	text-align: left;
+	font-weight: bold;
+}
+
+.invisible {
+	visibility: hidden;
+}
+
+.visible {
+	visibility: visible;
+	color: red;
+}
+
+.buttons {
+	text-align: left;
+}
+
+.inscripition {
+	background-color: #f0bdda;
+	box-shadow: 1px 1px 12px #555;
+}
+
+.inscripition:hover {
+	background-color: #d28fb5;
+	box-shadow: 1px 1px 12px #555;
+}
+
+.langages {
+	background-color: #ffe45b;
+	box-shadow: 1px 1px 12px #555;
+}
+
+.langages:hover {
+	background-color: #ffd500;
+	box-shadow: 1px 1px 12px #555;
+}
+
+.status {
+	background-color: #95fb94;
+	box-shadow: 1px 1px 12px #555;
+}
+
+.status:hover {
+	background-color: #4eb44d;
+	box-shadow: 1px 1px 12px #555;
+}
+
+.buttons {
+	max-width: 500px;
+	margin: auto;
+	height: auto;
+	text-align: center;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+}
+
+.w3-btn, .w3-button {
+	border: none;
+	display: inline-block;
+	padding: 8px 16px;
+	vertical-align: middle;
+	overflow: hidden;
+	text-decoration: none;
+	color: inherit;
+	background-color: inherit;
+	text-align: center;
+	cursor: pointer;
+	white-space: nowrap
+}
+
+.w3-red {
+	color: #fff !important;
+	background-color: #ff9b78 !important
+}
+
+.w3-red:hover {
+	color: #fff !important;
+	background-color: #f44336 !important
+}
+
+.w3-blue-grey {
+	color: #fff !important;
+	background-color: #607d8b !important
+}
+
+.w3-blue-grey:hover {
+	color: #fff !important;
+	background-color: #428d23 !important
+}
+
+.w3-blue {
+	color: #fff !important;
+	background-color: #9ebfcc !important
+}
+
+.w3-blue:hover {
+	color: #fff !important;
+	background-color: #2196F3 !important
+}
+
+.w3-aqua {
+	color: #fff !important;
+	background-color: #9ebfcc !important
+}
+
+.w3-aqua:hover {
+	color: #000 !important;
+	background-color: #00ffff !important
+}
+
+.w3-black, .w3-hover-black:hover {
+	color: #fff !important;
+	background-color: #000 !important
+}
+
+.w3-yellow {
+	color: #000 !important;
+	background-color: #f9ffa1 !important
+}
+
+.w3-yellow:hover {
+	color: #000 !important;
+	background-color: #ffeb3b !important
+}
+
+.w3-green {
+	color: #fff !important;
+	background-color: #73e390 !important
+}
+
+.w3-green:hover {
+	color: #fff !important;
+	background-color: #4CAF50 !important
+}
+
+body {
+	background-image:
+/* 		url("https://cdn.shopify.com/s/files/1/0285/1316/products/BER-0006-WALP-WP-1_512x.jpg?v=1485470909"); */
+		
+		url("https://previews.123rf.com/images/valera197615/valera1976151704/valera197615170402500/75462350-gold-sketch-on-texture-background-damask-seamless-pattern-repeating-background-gold-gray-floral-orna.jpg");
+}
